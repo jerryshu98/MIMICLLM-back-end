@@ -1,0 +1,18 @@
+[
+  {
+    "role": "user",
+    "content": "hello"
+  },
+  {
+    "role": "system",
+    "content": "Hello! How can I assist you today?"
+  },
+  {
+    "role": "user",
+    "content": "what happend"
+  },
+  {
+    "role": "system",
+    "content": "Could you please provide more context or clarify your question? Are you referring to a specific event or situation?"
+  }
+]
